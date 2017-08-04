@@ -1,0 +1,10 @@
+{
+    "name": "steph/club",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}

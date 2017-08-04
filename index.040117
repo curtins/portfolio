@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Stephen Curtin - Web Developer - Programmer - Database Programmer / Analyst</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/freelancer.css" rel="stylesheet" type="text/css">
+	<link href="css/socialbuttons.css" rel="stylesheet" type="text/css">
+	<link href="css/my.css" rel="stylesheet" type="text/css">	
+	 
+	
+
+    <!-- Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+
+    <!-- IE8 support for HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+	
+</head>
+
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+					
+                <a class="navbar-brand" href="#page-top">Home</a> 
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+
+
+		    <li class="page-scroll" id="rss1">
+                        <a href="http://superfeedr.scurtin.org/" target="_blank" title= "RSS">RSS</a>
+                    </li>
+
+
+
+
+
+
+
+                    <!-- <li class="page-scroll" id="portfolio1">
+                        <a href="#portfolio" title= "Sample of some of my work....">Portfolio</a>
+                    </li> -->
+					
+					<li class="page-scroll" id="resume1">
+                        <a href="Resume.docx" title= "Resume is being downloaded.." >Resume</a>
+                    </li>
+										
+                    <li class="page-scroll" id="portfolio1" title= "Family photos...">
+                        <a href="/foliogallery-master-2.0/foliogallery-demo2.php">Photos</a>
+                    </li>
+
+                    <li class="page-scroll" id="about1">
+                        <a href="#about" title= "Me..">About</a>
+                    </li>
+                    <li class="page-scroll" id="contract1">
+                        <a href="mailto:stephencurtin@hotmail.com?subject=Website questions">Contact</a>
+                    </li>
+					
+					  
+					
+					
+					
+					
+					
+					<li class="page-scroll" id="website1">
+                       <a href="#websiteinfo" role="button" title= "My skill matrix.."class="page-scroll" data-toggle="modal">Website Information</a>
+                    </li>
+					
+					 
+					
+					
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header >
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img class="img-responsive" src="img/profile1.png" alt="">
+                    <div class="intro-text">
+                        <span class="name">Stephen Curtin</span>
+                        <hr class="star-light">
+                        <p>Web Developer - Database Developer - Programmer Analyst / Green Valley,AZ /<span>602-</span><span>738-2340</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+	
+
+	
+	
+	
+	
+	<!-- About   -->
+	
+ 
+
+    <section   id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>About</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                     <p>Results-oriented professional with over 20 years of hands-on experience in all aspects of corporate information system management. Includes development, maintenance, conversion
+						and production support coupled with technical skills in Web database, PC/client-server and mainframe environments. I am a lifelong learner and enjoy the challenges, opportunities
+						and learning opportunities new technologies present. Proven track record as an achiever and a team player.  </p>
+                </div>
+               
+            </div>
+        </div>
+    </section>    
+	 
+
+	
+	</div>
+	
+	
+	<!-- Footer   -->
+
+
+    <footer class="text-center">
+        <div class="footer-above">
+            <div class="container">
+                <div class="row">
+                    <div class="footer-col col-md-4">
+                        <h3>Location</h3>
+                        <p>Green Valley, AZ 85614
+                            
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Around the Web</h3>                   
+                             
+                            <ul class="list-inline">
+							
+                            <li><a href="https://www.facebook.com/sharer/sharer.php?u=" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a></li>
+                            <li><a href="https://plus.google.com/share?url=" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a></li>
+                            <li><a href="http://twitter.com/home?status=" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a></li>
+                            <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=&title=&summary=" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a></li>                
+                            
+							</ul>
+                    </div>
+                    <div class="footer-col col-md-4">
+                        <h3>Training Resources</h3>
+                           <ul class="list-inline">                             
+                           	 <li><a href="http://www.pluralsight.com" target="_blank">PluralSight</a></li>
+							 <li><a href="http://codeschool.com" target="_blank">Code School</a></li>
+							 <li><a href="https://www.safaribooksonline.com/" target="_blank">Safari Books Online</a></li>
+							 <li><a href="https://www.ostraining.com/" target="_blank">OS Training</a></li>
+							 <li><a href="https://www.digitalocean.com/" target="_blank">Digital Ocean Hosting</a></li>
+							 
+							
+                           
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-below">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        Copyright &copy; 2014 - Stephen Curtin
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="scroll-top page-scroll visible-xs visble-sm">
+        <a class="btn btn-primary" href="#page-top">
+            <i class="fa fa-chevron-up"></i>
+        </a>
+    </div>
+
+    
+    </div>
+	
+	
+	
+	<!-- Large modal -->
+<div class="modal fade" id="websiteinfo" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">Website Information</h4>
+          </div>
+          <div class="modal-body">
+		  
+			<p>I have spent the last several months in training on web front end technologies. Using books, training videos 
+			and other online resources, my efforts to date have produced this site. Listed below will be all the different technologies
+			used here. While I may have used some of these tools more than others, they all played a role in getting the site to this point</P>
+			<p>Please feel free to <a href="mailto:stephencurtin@hotmail.com?subject=Website questions">contact me</a> if you have any questions.  
+		  
+			<div class="table-responsive"> 
+				<table class="table table-bordered">
+					<thead>
+						 
+					<tbody>
+					
+						<tr>
+							<td>HTML 5/CSS</td>
+							<td>Javascript</td>
+							<td>JQuery/AJAX</td>
+							<td>JQuery UI</td>															
+						</tr>
+						
+						
+						<tr>
+							<td>JSON</td>
+							<td>LAMP Stack</td>
+							<td>Ubuntu</td>
+							<td>Microsoft Azure</td>															
+						</tr>
+						
+						<tr>
+							<td>Microsoft Office</td>
+							<td>MySQL</td>
+							<td>PHP</td>
+							<td>Kimono Labs</td>															
+						</tr>
+						
+						<tr>
+							<td>SQL Server</td>
+							<td>Ubuntu</td>
+							<td>Web API (various)</td>
+							<td>Python</td>															
+						</tr>
+						
+						<tr>
+							<td>New Relic-Web Server Monitor</td>
+							<td>Git</td>
+							<td>Git Hub</td>		
+							<td>Google Analytics</td>		
+						</tr>
+						
+						<tr>
+							<td>Angular JS</td>
+							<td>Symfony 2.7</td>
+							<td>Laravel 5</td>		
+							<td>Mongo DB</td>		
+						</tr>
+						
+						
+					</tbody>
+				</table>
+			</div>
+											
+									
+									 
+											
+			<div class="modal-footer">
+				<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+			</div>
+		  
+		  
+		  
+		  
+             
+        </div>
+          
+        </div>
+      </div>
+    </div>	
+</div>
+
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+    <script src="js/freelancer.js"></script>
+	<script src="js/jquery.zrssfeed.min.js"></script>
+	<script src="js/my.js"></script>
+	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-54778181-1', 'auto');
+	  ga('send', 'pageview');
+</script>
+
+</body>
+
+</html>
